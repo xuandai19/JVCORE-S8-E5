@@ -1,19 +1,6 @@
 import java.util.Scanner;
 
 public class Student {
-//    private int id;
-//    private String name;
-//    private int age;
-//
-//    public Student(int id, String name, int age) {
-//        this.id = id;
-//        this.name = name;
-//        this.age = age;
-//    }
-//
-//    public void printInfo() {
-//        System.out.printf("ID: %d, Name: %s, Age: %d" , id, name, age);
-//    }
     private int id;
     private String name;
     private double gpa;
